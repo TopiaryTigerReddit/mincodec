@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["OptionReadError",""],["OptionWriteError",""],["ResultReadError",""],["ResultWriteError",""],["StringReadError",""],["VecReadError",""],["VecWriteError",""]],"trait":[["MinCodec",""]]});
